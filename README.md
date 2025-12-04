@@ -27,7 +27,7 @@ It then generates a **Security Assessment Dashboard** HTML summarizing:
 
 ---
 
-## 🛠️ Project Structure
+##  Project Structure
 
 The repository contains:
 
